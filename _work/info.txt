@@ -1,0 +1,3 @@
+password: testtest
+alias: test
+alias password: testtest
